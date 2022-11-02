@@ -1,4 +1,4 @@
 #!/bin/bash
 echo "sfdsdfsfsdfsdfsdfsdfsdfsd"
-echo	"test2"
+echo	"test $BUILD_ID"
 echo `date`
